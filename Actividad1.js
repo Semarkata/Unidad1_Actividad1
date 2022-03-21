@@ -60,6 +60,7 @@ function main() {
     }
 
     alert("El total de patrones encontrados es " + total);
+    console.log("Cambio")
 }
 
 // Llamamos a la función principal, main
